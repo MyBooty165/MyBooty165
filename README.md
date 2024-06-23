@@ -8,7 +8,7 @@
 
 ## 💻 My most used languages:
 
-<img src="https://banner2.cleanpng.com/20180619/pro/kisspng-html-logo-canvas-element-javascript-murugan-5b2930919050b0.0825629615294260655911.jpg" alt="HTML LOGO" sizes="64x64" style="width: 64px;">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="HTML LOGO" sizes="64x64" style="width: 64px;">
 
 ### HTML (Hypertext Markup Language) - For Web Development
 
