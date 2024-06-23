@@ -1,17 +1,38 @@
-<div style="text-align: center;">
-<h1 style="text-align: center;">Hello! I am Tam, also known as X-88</h1>
+<h1 align="center">Hello! I am Tam, also known as X-88</h1>
 
-<h4 style="text-align: center;">I am a 13 year old frontend programmer who has the motive to end internet censorship.</h4>
-<h4 style="text-align: center;">I am also the Founder and Owner of <a href="https://cybriatech.dev">CybriaTech</a></h4>
+<h2 align="center">❓ Who Am I?</h2>
 
-<h2>My projects are</h2>
+<h4 align="center">I'm a 13 year old, frontend web developer currently working on projects related to bypassing internet restrictions, I consider myself a gray hat (not that you care anyway).</h4>
+
+<h4 align="center">I am also the founder & owner of <a href="https://cybriatech.dev">CybriaTech</a>, a small group dedicated to bypassing school restrictions.</h4>
+
+<h2 align="center">💻 My most used languages:</h2>
+
+<img src="https://banner2.cleanpng.com/20180619/pro/kisspng-html-logo-canvas-element-javascript-murugan-5b2930919050b0.0825629615294260655911.jpg" alt="HTML LOGO" sizes="64x64" style="width: 64px;">
+<h4 align="center">HTML (Hypertext Markup Language) - For Web Development</h4>
+
+<img src="https://banner2.cleanpng.com/20180619/pro/kisspng-html-logo-canvas-element-javascript-murugan-5b2930919050b0.0825629615294260655911.jpg" alt="CSS LOGO" sizes="64x64" style="width: 64px;">
+<h4 align="center">CSS (Cascading Style Sheets) - For Web Development</h4>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS LOGO" sizes="64x64" style="width: 64px;">
+<h4 align="center">Javascript - For Web Development</h4>
+
+<img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" alt="NODEJS LOGO" sizes="64x64" style="width: 64px;">
+<h4 align="center">Node.JS - For Simple Projects (For Now)</h4>
+
+<h2 align="center">🌐 Random facts about me:</h2>
 
 <ul>
-  <li><a href="https://opium-games.com">Opium Games</a></li>
-  <li><a href="https://cease.cybriatech.dev">CEASE</a></li>
-  <li><a href="https://cybriagg.uk">CybriaGG</a></li>
-  <li><a href="https://cybriahb-demo.cybriatech.dev">CybriaHB Demo</a></li>
+  <li>😒 I suck at anything other than web development</li>
+  <li>😁 programming is basically the only thing that makes me genuinely happy</li>
+  <li>📚 I once found a zero day for the infamous <a href="https://unify.performancematters.com/">Performance Matter's</a> Test Locking (If u can even call it a Zero Day)</li>
+  <li>😱 I used to do black hat activities, resulting in my horrible record.</li>
 </ul>
-</div>
+
+<h2 align="center">📞 My Socials:</h2>
+
+<h4 align="center">None, I have asian parents :(</h4>
+
+
 
 
