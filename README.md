@@ -18,6 +18,8 @@
 
 ### Node.JS - For Simple Projects (For Now)
 
+### Basic Python - For Simple Projects (For Now)
+
 ## 🌐 Random facts about me:
 
 <ul>
