@@ -1,4 +1,4 @@
-# Hello! I am Tam, also known as X-88
+# Hello! I am X-88
 
 ## ❓ Who Am I?
 
