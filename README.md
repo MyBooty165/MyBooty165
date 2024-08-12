@@ -1,4 +1,4 @@
-# Hello! I am X-88
+# Hello! I am Specter
 
 ## ❓ Who Am I?
 
