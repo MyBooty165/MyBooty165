@@ -2,7 +2,7 @@
 
 ## ❓ Who Am I?
 
-#### I'm a 14 year old, frontend web developer currently working on projects related to bypassing internet restrictions, I consider myself a gray hat (not that you care anyway).
+#### I'm a 14 year old, frontend web developer currently working on projects related to bypassing internet restrictions and cybersecurity (basically polar opposites), I consider myself a gray hat (not that you care anyway).
 
 #### I am also the founder & ex-owner of <a href="https://cybriatech.dev">CybriaTech</a>, a small group dedicated to bypassing school restrictions. And the founder + owner of <a href="https://imperiumservices.dev">Imperium Services</a>
 
